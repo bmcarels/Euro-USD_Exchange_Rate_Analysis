@@ -7,7 +7,7 @@ This project is a guided analysis from the platform [dataquest.io](http://dataqu
 
 **Project Summary:**
 
-This project is an analysis of how the Euro-USD exchange rate changed over time and what factors may have influenced that change. The goal of this project was to create “explanatory” graphs; graphs that convey a clear message to the audience. The first graph explores the change in the Euro-USD exchange rate during the 2008 US financial crisis, and the second graph explores the change in the Euro-USD exchange rate during the three presidencies from the year 2000-2021.
+This project is an analysis of how the Euro-USD exchange rate changed over time and what factors may have influenced that change. The goal of this project was to create “explanatory” graphs: graphs that convey a clear message to the audience. The first graph explores the change in the Euro-USD exchange rate during the 2008 US financial crisis, and the second graph explores the change in the Euro-USD exchange rate during the three presidencies from the year 2000-2021.
 
 **Key Findings:**
 
@@ -16,7 +16,7 @@ The greatest fluctuations in the exchange rate occurred during George W. Bush's 
 
 **Datasource:**
 
-The data for this project is provided by the European Central Bank and can be found on [Kaggle](https://www.kaggle.com/datasets/lsind18/euro-exchange-daily-rates-19992020). The dataset details the euro daily exchange rates from 1999 to 2021. There are 5,699 rows and 41 columns in the dataset. Of those 41 columns, 40 are unique countries. 
+The data for this project is provided by the European Central Bank and can be found on [Kaggle](https://www.kaggle.com/datasets/lsind18/euro-exchange-daily-rates-19992020). The dataset details the euro daily exchange rates from 2000 to 2021. There are 5,699 rows and 41 columns in the dataset. Of those 41 columns, 40 are unique countries. 
 
 **Tools Used:**
 
